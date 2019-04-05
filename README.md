@@ -2,4 +2,5 @@
 
 Project created to test how the "Feature Workflow" works in practice.
 
-Now, practicing different ways to deal with conflicts.
+Now, practicing different ways to deal with conflicts, first with merge.
+
